@@ -3,6 +3,8 @@ repropython
 
 A reproducible python project
 
+Green eggs and ham.
+
 Project Organization
 --------------------
 
