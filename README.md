@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/350764114.svg)](https://zenodo.org/badge/latestdoi/350764114)
 repropython
 ==============================
 
